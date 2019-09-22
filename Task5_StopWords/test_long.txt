@@ -1,0 +1,33 @@
+12	Anarchism         Anarchism is often defined as a political philosophy which text: Unable to write to output stream.
+
+
+I have created this text file for testing puposes.
+
+
+I am enjoying Hadoop Mapreduce to process the big data.
+
+
+Hadoop is an open source distributed file storage system.
+
+
+Hadoop is a file storage system on top of which mapreduce/yarn or spark can be used to process data.
+
+
+Both programming paradigm has their own pros and cons.
+
+
+Mapreduce/yarn is robust and can be scaled to any limit with cheap hardwares but is slow.
+
+
+Spark is best suited for real time streaming but limited in scaling capabilities.
+
+
+There are several other tools one shoud be familier with in order to be productive as a data scientist/engineer.
+
+
+Vim editor and  awk programming language for text editing. For test unit one can use pytest a python extension. One should be familier with shell commands.
+
+
+
+I think that's it. You are good to go!!
+
